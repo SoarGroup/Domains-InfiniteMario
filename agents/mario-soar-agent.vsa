@@ -1,6 +1,6 @@
 VERSION 4
-/mario-soar-combined/mario-soar-combined.dm
-0	ROOT mario-soar-combined mario-soar-combined 1
+/mario-soar-agent/mario-soar-agent.dm
+0	ROOT mario-soar-agent mario-soar-agent 1
 1	0	FOPERATOR _firstload _firstload.soar 2
 2	0	FOLDER all all 3
 3	0	FOLDER elaborations elaborations 4
